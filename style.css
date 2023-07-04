@@ -1,0 +1,62 @@
+body {
+    font-family: "Fira Sans", sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: #dcdcdc;
+    
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4 
+  {
+    color: #2f4f4f;
+    margin-top: 0;
+  }
+  
+  p
+  {
+    color: #2f4f4f;
+  }
+  
+  #p a:hover {border-bottom: 1px solid #0065fc;
+  color: #0065fc;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  h2 {
+    font-size: 23px;
+  }
+  
+  h3 {
+    font-size: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .left {
+    float: left;
+    width: 60%;
+  }
+  
+  .right {
+    float: right;
+    width: 40%;
+    text-align: right;
+  }
+  .fa-thinfa-phone
+  
+  .clear {
+    clear: both;
+  }
